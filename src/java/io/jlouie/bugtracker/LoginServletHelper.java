@@ -1,4 +1,4 @@
-package edu.uci.ics.dts;
+package io.jlouie.bugtracker;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

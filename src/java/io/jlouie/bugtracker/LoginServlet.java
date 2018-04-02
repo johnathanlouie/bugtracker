@@ -1,4 +1,4 @@
-package edu.uci.ics.dts;
+package io.jlouie.bugtracker;
 
 import java.io.IOException;
 import java.util.Vector;
